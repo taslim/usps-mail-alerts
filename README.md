@@ -1,4 +1,4 @@
-# Mail Alerts
+# USPS Mail Alerts
 
 ## Overview
 
