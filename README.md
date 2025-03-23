@@ -31,7 +31,7 @@ If you already have an active "Pick up mails" task, the script will update that 
    - In the Apps Script editor, go to Services (+)
    - Select "Tasks API" from the list
    - Click "Add"
-4. Save and deploy the project as a web app or time-driven trigger
+4. Save the project and set up time-driven trigger
 
 ## Setting Up a Trigger
 
